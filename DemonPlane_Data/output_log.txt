@@ -1,0 +1,41 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.10.1666]
+    Renderer: Mobile Intel(R) GM45 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\home\marisag\Documents\MySnaps\demon-plane\DemonPlane_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.376600 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 168.
+Total: 0.656100 ms (FindLiveObjects: 0.030300 ms CreateObjectMapping: 0.044900 ms MarkObjects: 0.485200 ms  DeleteObjects: 0.083900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.350600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 2.970200 ms (FindLiveObjects: 0.308900 ms CreateObjectMapping: 0.107500 ms MarkObjects: 2.383400 ms  DeleteObjects: 0.157900 ms)
+
